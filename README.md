@@ -26,7 +26,7 @@ A ideia do desafio era fazer o passo a passo abaixo, porém ao tentar realizar f
 
   ### Resultados encontrados
 
-  ![Alt text](./result1.png "Optional title")
+  ![Alt text](./result3.png "Optional title")
 
   ### Dados usados
 
